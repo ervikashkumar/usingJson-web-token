@@ -1,0 +1,31 @@
+{
+  "name": "using-jwt",
+  "version": "1.0.0",
+  "description": "This project uses json web token for authentication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "latest",
+    "morgan": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ervikashkumar/usingJson-web-token.git"
+  },
+  "keywords": [
+    "jwt",
+    "vikash",
+    "kumar"
+  ],
+  "author": "Er. Vikash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ervikashkumar/usingJson-web-token/issues"
+  },
+  "homepage": "https://github.com/ervikashkumar/usingJson-web-token#readme"
+}
